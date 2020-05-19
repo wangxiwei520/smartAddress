@@ -1,7 +1,7 @@
 <?php
 
 namespace smartaddress;
-
+//
 class SmartAddress
 {
     public  $name;//姓名
