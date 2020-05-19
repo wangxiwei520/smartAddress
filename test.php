@@ -2,9 +2,11 @@
 /**
  * Created by PhpStorm.
  * User: Administrator
- * Date: 2020/5/18
- * Time: 23:13
+ * Date: 2020/5/19
+ * Time: 23:52
  */
 require_once 'vendor/autoload.php';
-use Abstarfish\Starfish\Tool;
-Tool::index();
+
+use smartaddress\SmartAddress;
+
+SmartAddress::aa();
